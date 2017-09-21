@@ -1,0 +1,10 @@
+CRUD OPERTAIONS
+
+TUTORIAL
+http://www.androidlabs.info/appscript/crud-operation-on-google-spread-sheet-using-google-app-script-html-jquery/
+
+VIDEO
+https://www.youtube.com/watch?v=OqDo2L-aSGw
+
+ENABLE API 
+https://developers.google.com/apps-script/guides/services/advanced
